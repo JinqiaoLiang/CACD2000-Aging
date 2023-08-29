@@ -1,5 +1,5 @@
 # CACD2000-Aging
-### [Project Page](https://grail.cs.washington.edu/projects/lifespan_age_transformation_synthesis/) | [Paper](https://arxiv.org/pdf/2003.09764.pdf) | [Lifespan Age Transformation Synthesis Code](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis)
+
 <div><img src=./images/dataset_samples.jpg></div>
 
 ## Overview
@@ -20,3 +20,8 @@ The following histogram shows the age class distribution per gender.
 <div><img src=./images/age_distribution.png></div>
 
 Gender labels & confidence, age class labels & confidence score, head pose, glasses type and left & right eye occlusion scores for each individual image are stored in **FacePlusPlusLabel.csv**.
+
+## Detailed Description
+**Female.csv**:This file contains the labels of all women in CACD2000-aging.
+**Male.csv**:This file contains the labels of all man in CACD2000-aging.
+**Semantic segmentation**:This folder stores the segmented images parsed by Huawei.
