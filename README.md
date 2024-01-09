@@ -31,3 +31,5 @@ Gender labels & confidence, age class labels & confidence score, head pose, glas
 **Male.csv**:This file contains the labels of all man in CACD2000-aging.
 
 **Semantic segmentation**:This folder stores the segmented images parsed by Huawei.
+
+**Dataset Cleaning Process.pdf**:This file details the CACD2000-Aging dataset cleanup process.
